@@ -1,0 +1,14 @@
+dist/*
+target/*
+project/target/*
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+
+### Scala ###
+*.class
+*.log
+*.iml
+.idea
